@@ -2,7 +2,7 @@
 
 Projeto realizado em Kotlin com Jetpack Compose
 
-👥 Integrantes
+# 👥 Integrantes
 
 Guilherme Korus Daoud — RM: 97826
 
