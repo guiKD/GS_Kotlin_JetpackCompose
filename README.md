@@ -1,6 +1,6 @@
 # Aplicativo – Cálculo de IMC
 
-Projeto realizado em Kotlin com Jetpack Compose
+Projeto realizado em Kotlin com Jetpack Compose <br>
 Link Para o GITHUB: https://github.com/guiKD/GS_Kotlin_JetpackCompose
 
 ## 👥 Integrantes
