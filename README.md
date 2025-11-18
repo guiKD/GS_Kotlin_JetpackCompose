@@ -8,7 +8,7 @@ Guilherme Korus Daoud — RM: 97826
 
 Rafael Jun Miura — RM: 98845
 
-📸 Telas da Aplicação
+## 📸 Telas da Aplicação
 1. Tela de Login
 <img width="379" height="577" alt="image" src="https://github.com/user-attachments/assets/ead7c944-3a7c-4619-a13f-d87611aacef3" />
 
