@@ -1,4 +1,4 @@
-📱 Aplicativo – Cálculo de IMC
+#Aplicativo – Cálculo de IMC
 
 Projeto realizado em Kotlin com Jetpack Compose
 
